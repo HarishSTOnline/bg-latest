@@ -1334,6 +1334,9 @@ body {
         font-size: 60px;
         opacity: 1;
         cursor: pointer; }
+      .navbar .logo {
+        width: 25%;
+      }
 
 .light, .nav-scroll {
   background: #fff;
@@ -3518,7 +3521,7 @@ body {
       margin: 10px auto !important; }
   .navbar .logo {
     margin-left: 15px;
-    width: 50px; }
+    width: 40%; }
   .nav-scroll .navbar-collapse .nav-link,
   .light .navbar-collapse .nav-link {
     color: #fff !important; }
@@ -3697,7 +3700,7 @@ body {
     right: 15px;
     bottom: 15px; }
   .navbar .logo {
-    width: 60px; }
+    width: 40% }
   .btn-curve {
     padding: 8px 15px; }
     .btn-curve span {
@@ -3862,6 +3865,9 @@ body {
     font-size: 14px;
     letter-spacing: 1px; }
   .blog-pg.single .comments-area .item .info .replay {
-    top: -25px; } }
+    top: -25px; }
+  .navbar .logo {
+    width: 65%;
+  }}
 
 /* ====================== [ End Responsive ] ====================== */
