@@ -28,7 +28,7 @@ $(function () {
         if (bodyScroll > 300) {
 
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'img/BGDlogo-Black.png');
+            logo.attr('src', 'img/BGDlogo-Black-Original.png');
 
         } else {
 
